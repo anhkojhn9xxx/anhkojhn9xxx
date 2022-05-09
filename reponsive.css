@@ -1,0 +1,8 @@
+@media ( max-width: 786px) {
+    header ul li {
+        display: none;
+    }
+    header input {
+        display: none;
+    }
+}
